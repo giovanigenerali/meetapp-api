@@ -31,7 +31,8 @@
     "@adonisjs/vow": "^1.0.17",
     "@sentry/node": "^5.2.0",
     "adonis-kue": "^5.0.1",
-    "pg": "^7.10.0"
+    "pg": "^7.10.0",
+    "url-parse": "^1.4.7"
   },
   "devDependencies": {
     "eslint": "^5.16.0",
