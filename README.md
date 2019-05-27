@@ -47,3 +47,15 @@
   ```
   adonis serve --dev
   ```
+
+---
+
+# Deploy Heroku
+
+Rodar a fila para envio de email no Heroku
+
+```
+heroku run:detached ENV_SILENT=true node ace kue:listen -a <nome da aplicacao>
+```
+
+[Running tasks in background](https://devcenter.heroku.com/articles/one-off-dynos#running-tasks-in-background)
