@@ -1,5 +1,7 @@
 # Rocketseat Desafio Final - Back End
 
+[![Build Status](https://travis-ci.org/giovanigenerali/meetupapp-api.svg?branch=master)](https://travis-ci.org/giovanigenerali/meetupapp-api)
+
 - ### Bancos de dados Postgres e Redis via Docker
 
   Docker - Postgres
